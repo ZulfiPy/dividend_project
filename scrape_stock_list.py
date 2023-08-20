@@ -26,5 +26,3 @@ class sp500_soup:
 sp500 = sp500_soup()
 
 sp500_dict = sp500.access_table_data()
-
-print(sp500_dict)
