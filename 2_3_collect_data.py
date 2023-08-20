@@ -29,7 +29,7 @@ class Processes:
                     self.dividend_df.loc[len(self.dividend_df.index)] = data
             except ValueError:
                 print(stock, 'not found')
-        self.dividend_dfs_by_year[year] = self.dividen_df
+        self.dividend_dfs_by_year[year] = self.dividend_df
 
     def get_geocode(self, location):
         response = self.gmaps.geocode(location)
@@ -53,4 +53,20 @@ class Processor:
         for year in years:
             processes.calculate_divs(sp500_dict, year)
 
-class
+    def geocode_dfs(self):
+        for key, value in processes.dividend_dfs_by_year.items():
+            processes.lat_lng_to_df(value)
+
+    def save_to_csv(self):
+        for key, value in processes.dividend_dfs_by_year.items():
+            processes.save_csv(value, key)
+
+processor = Processor()
+
+years_to_check = [2020]
+
+processor.check_stocks_div(years_to_check)
+processor.geocode_dfs()
+processor.save_to_csv()
+
+print(processes.dividend_dfs_by_year)
