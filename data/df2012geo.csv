@@ -1,0 +1,341 @@
+,ticker,company,industry,location,dividend,dividend_prc,latitude,longitude
+0,MMM,3M,Industrials,"Saint Paul, Minnesota",2.32,3.8,44.9537029,-93.0899578
+1,AOS,A. O. Smith,Industrials,"Milwaukee, Wisconsin",0.68,7.18,43.0389025,-87.9064736
+2,ABT,Abbott,Health Care,"North Chicago, Illinois",1.98,8.9,42.325578,-87.8411818
+3,ACN,Accenture,Information Technology,"Dublin, Ireland",1.35,2.76,53.3498053,-6.2603097
+4,ATVI,Activision Blizzard,Communication Services,"Santa Monica, California",0.18,1.57,34.0194543,-118.4911912
+5,ADM,ADM,Consumer Staples,"Chicago, Illinois",0.7,3.2,41.8781136,-87.6297982
+6,ADP,ADP,Industrials,"Roseland, New Jersey",1.58,4.28,40.8206555,-74.2937594
+7,AAP,Advance Auto Parts,Consumer Discretionary,"Raleigh, North Carolina",0.24,0.36,35.7795897,-78.6381787
+8,AFL,Aflac,Financials,"Columbus, Georgia",1.32,7.66,32.4609764,-84.9877094
+9,A,Agilent Technologies,Health Care,"Santa Clara, California",0.3,1.13,37.3541079,-121.9552356
+10,APD,Air Products and Chemicals,Materials,"Allentown, Pennsylvania",2.5,3.91,40.6022939,-75.4714098
+11,ALB,Albemarle Corporation,Materials,"Charlotte, North Carolina",0.77,1.61,35.2270869,-80.8431267
+12,ARE,Alexandria Real Estate Equities,Real Estate,"Pasadena, California",2.02,4.04,34.1477849,-118.1445155
+13,LNT,Alliant Energy,Utilities,"Madison, Wisconsin",1.78,11.74,43.0721661,-89.4007501
+14,ALL,Allstate,Financials,"Glenview, Illinois",0.87,3.52,42.0778065,-87.8223368
+15,MO,Altria,Consumer Staples,"Richmond, Virginia",1.67,10.08,37.5407246,-77.4360481
+16,AEE,Ameren,Utilities,"St. Louis, Missouri",1.6,7.24,38.6270025,-90.19940419999999
+17,AEP,American Electric Power,Utilities,"Columbus, Ohio",1.88,7.17,39.9611755,-82.99879419999999
+18,AXP,American Express,Financials,"New York City, New York",0.76,1.73,40.7127753,-74.0059728
+19,AMT,American Tower,Real Estate,"Boston, Massachusetts",1.01,1.97,42.3600825,-71.0588801
+20,AWK,American Water Works,Utilities,"Camden, New Jersey",0.94,3.59,39.9259463,-75.1196199
+21,AMP,Ameriprise Financial,Financials,"Minneapolis, Minnesota",1.21,3.07,44.977753,-93.2650108
+22,ABC,AmerisourceBergen,Health Care,"Conshohocken, Pennsylvania",0.52,1.67,40.0792766,-75.3015714
+23,AME,Ametek,Industrials,"Berwyn, Pennsylvania",0.27,0.9,40.045824,-75.4395931
+24,AMGN,Amgen,Health Care,"Thousand Oaks, California",1.36,2.62,34.1705609,-118.8375937
+25,APH,Amphenol,Information Technology,"Wallingford, Connecticut",0.33,2.61,41.4570108,-72.8230736
+26,ADI,Analog Devices,Information Technology,"Wilmington, Massachusetts",1.15,4.0,42.5481714,-71.1724467
+27,AON,Aon,Financials,"London, UK",0.62,1.4,51.5072178,-0.1275862
+28,APA,APA Corporation,Energy,"Houston, Texas",0.64,0.86,29.7604267,-95.3698028
+29,AAPL,Apple Inc.,Information Technology,"Cupertino, California",2.65,14.02,37.3229978,-122.0321823
+30,AMAT,Applied Materials,Information Technology,"Santa Clara, California",0.34,3.57,37.3541079,-121.9552356
+31,AJG,Arthur J. Gallagher & Co.,Financials,"Rolling Meadows, Illinois",1.35,5.07,42.0841936,-88.0131275
+32,AIZ,Assurant,Financials,"New York City, New York",0.78,2.7,40.7127753,-74.0059728
+33,T,AT&T,Communication Services,"Dallas, Texas",1.75,14.5,32.7766642,-96.79698789999999
+34,ATO,Atmos Energy,Utilities,"Dallas, Texas",1.38,5.58,32.7766642,-96.79698789999999
+35,AVB,AvalonBay Communities,Real Estate,"Arlington, Virginia",3.8,4.03,38.8816208,-77.09098089999999
+36,AVY,Avery Dennison,Materials,"Glendale, California",1.06,4.67,34.1425078,-118.255075
+37,BALL,Ball Corporation,Materials,"Broomfield, Colorado",0.37,2.09,39.9205411,-105.0866504
+38,BAC,Bank of America,Financials,"Charlotte, North Carolina",0.04,0.69,35.2270869,-80.8431267
+39,BBWI,"Bath & Body Works, Inc.",Consumer Discretionary,"Columbus, Ohio",3.95,18.22,39.9611755,-82.99879419999999
+40,BAX,Baxter International,Health Care,"Deerfield, Illinois",1.46,5.94,42.1711365,-87.8445119
+41,BDX,Becton Dickinson,Health Care,"Franklin Lakes, New Jersey",1.8,2.96,41.0167639,-74.2057011
+42,WRB,Berkley,Financials,"Greenwich, Connecticut",0.34,2.68,41.0262417,-73.6281964
+43,BBY,Best Buy,Consumer Discretionary,"Richfield, Minnesota",0.65,4.5,44.8832982,-93.28300209999999
+44,TECH,Bio-Techne,Health Care,"Minneapolis, Minnesota",1.12,7.26,44.977753,-93.2650108
+45,BLK,BlackRock,Financials,"New York City, New York",5.88,4.48,40.7127753,-74.0059728
+46,BK,BNY Mellon,Financials,"New York City, New York",0.52,3.15,40.7127753,-74.0059728
+47,BA,Boeing,Industrials,"Chicago, Illinois",1.74,2.92,41.8781136,-87.6297982
+48,BXP,Boston Properties,Real Estate,"Boston, Massachusetts",2.2,3.18,42.3600825,-71.0588801
+49,BMY,Bristol Myers Squibb,Health Care,"New York City, New York",1.35,5.6,40.7127753,-74.0059728
+50,AVGO,Broadcom Inc.,Information Technology,"San Jose, California",0.56,2.21,37.33874,-121.8852525
+51,BR,Broadridge Financial Solutions,Industrials,"Lake Success, New York",0.66,3.64,40.7698453,-73.70904279999999
+52,BRO,Brown & Brown,Financials,"Daytona Beach, Florida",0.34,3.18,29.2108147,-81.0228331
+53,BG,Bunge Limited,Consumer Staples,"Chesterfield, Missouri",1.02,2.14,38.6631083,-90.5770675
+54,CHRW,C.H. Robinson,Industrials,"Eden Prairie, Minnesota",1.32,2.77,44.8546856,-93.47078599999999
+55,CPT,Camden Property Trust,Real Estate,"Houston, Texas",2.17,5.29,29.7604267,-95.3698028
+56,CPB,Campbell Soup Company,Consumer Staples,"Camden, New Jersey",1.16,4.9,39.9259463,-75.1196199
+57,COF,Capital One,Financials,"Tysons Corner, Virginia",0.2,0.5,38.9187222,-77.2310925
+58,CAH,Cardinal Health,Health Care,"Dublin, Ohio",0.9,3.05,40.0992294,-83.1140771
+59,CCL,Carnival,Consumer Discretionary,"Miami, Florida",1.0,4.01,25.7616798,-80.1917902
+60,CAT,Caterpillar Inc.,Industrials,"Irving, Texas",1.9,2.79,32.8140177,-96.9488945
+61,CBOE,Cboe Global Markets,Financials,"Chicago, Illinois",0.51,2.29,41.8781136,-87.6297982
+62,CE,Celanese,Materials,"Irving, Texas",0.26,0.76,32.8140177,-96.9488945
+63,CNP,CenterPoint Energy,Utilities,"Houston, Texas",0.8,6.23,29.7604267,-95.3698028
+64,CF,CF Industries,Materials,"Deerfield, Illinois",1.6,5.91,42.1711365,-87.8445119
+65,SCHW,Charles Schwab Corporation,Financials,"Westlake, Texas",0.24,2.14,32.991235,-97.19501380000001
+66,CVX,Chevron Corporation,Energy,"San Ramon, California",3.42,5.15,37.7643595,-121.9539616
+67,CB,Chubb Limited,Financials,"Zurich, Switzerland",3.54,6.64,47.3768866,8.541694
+68,CHD,Church & Dwight,Consumer Staples,"Ewing, New Jersey",1.13,5.49,40.2599864,-74.79091249999999
+69,CI,Cigna,Health Care,"Bloomfield, Connecticut",0.04,0.09,41.826488,-72.73009449999999
+70,CINF,Cincinnati Financial,Financials,"Fairfield, Ohio",1.62,6.56,39.3454673,-84.5603187
+71,CTAS,Cintas,Industrials,"Mason, Ohio",0.54,2.09,39.3600586,-84.309939
+72,CSCO,Cisco,Information Technology,"San Jose, California",0.28,2.21,37.33874,-121.8852525
+73,C,Citigroup,Financials,"New York City, New York",0.04,0.17,40.7127753,-74.0059728
+74,CLX,Clorox,Consumer Staples,"Oakland, California",2.44,4.81,37.8043514,-122.2711639
+75,CME,CME Group,Financials,"Chicago, Illinois",9.31,27.93,41.8781136,-87.6297982
+76,CMS,CMS Energy,Utilities,"Jackson, Michigan",0.93,6.02,42.245869,-84.40134619999999
+77,KO,Coca-Cola Company (The),Consumer Staples,"Atlanta, Georgia",1.74,6.97,33.748752,-84.38768449999999
+78,CL,Colgate-Palmolive,Consumer Staples,"New York City, New York",2.4,6.49,40.7127753,-74.0059728
+79,CMCSA,Comcast,Communication Services,"Philadelphia, Pennsylvania",0.55,5.21,39.9525839,-75.1652215
+80,CMA,Comerica,Financials,"Dallas, Texas",0.5,2.35,32.7766642,-96.79698789999999
+81,CAG,Conagra Brands,Consumer Staples,"Chicago, Illinois",0.96,6.85,41.8781136,-87.6297982
+82,COP,ConocoPhillips,Energy,"Houston, Texas",19.66,52.82,29.7604267,-95.3698028
+83,ED,Consolidated Edison,Utilities,"New York City, New York",2.42,6.27,40.7127753,-74.0059728
+84,COO,CooperCompanies,Health Care,"San Ramon, California",0.06,0.08,37.7643595,-121.9539616
+85,GLW,Corning Inc.,Information Technology,"Corning, New York",0.3,3.0,42.1428521,-77.05469029999999
+86,COST,Costco,Consumer Staples,"Issaquah, Washington",1.03,1.56,47.5301011,-122.0326191
+87,CTRA,Coterra,Energy,"Houston, Texas",0.09,0.6,29.7604267,-95.3698028
+88,CSX,CSX,Industrials,"Jacksonville, Florida",0.52,8.76,30.3321838,-81.65565099999999
+89,CMI,Cummins,Industrials,"Columbus, Indiana",1.7,2.18,39.2014404,-85.9213796
+90,CVS,CVS Health,Health Care,"Woonsocket, Rhode Island",0.61,1.91,42.00287609999999,-71.51478390000001
+91,DHI,D.R. Horton,Consumer Discretionary,"Arlington, Texas",0.19,1.49,32.735687,-97.10806559999999
+92,DHR,Danaher Corporation,Health Care,"Washington, D.C.",0.1,0.27,38.9071923,-77.0368707
+93,DRI,Darden Restaurants,Consumer Discretionary,"Orlando, Florida",1.79,6.09,28.5383832,-81.3789269
+94,DE,John Deere,Industrials,"Moline, Illinois",1.79,2.82,41.5067003,-90.51513419999999
+95,XRAY,Dentsply Sirona,Health Care,"Charlotte, North Carolina",0.22,0.64,35.2270869,-80.8431267
+96,DVN,Devon Energy,Energy,"Oklahoma City, Oklahoma",0.77,1.72,35.4675602,-97.5164276
+97,DLR,Digital Realty,Real Estate,"Austin, Texas",2.87,6.49,30.267153,-97.7430608
+98,DFS,Discover Financial,Financials,"Riverwoods, Illinois",0.36,1.58,42.1675254,-87.897014
+99,DIS,Disney,Communication Services,"Burbank, California",0.6,1.91,34.1808392,-118.3089661
+100,D,Dominion Energy,Utilities,"Richmond, Virginia",2.07,6.25,37.5407246,-77.4360481
+101,DPZ,Domino's,Consumer Discretionary,"Ann Arbor, Michigan",3.0,9.15,42.2808256,-83.7430378
+102,DOV,Dover Corporation,Industrials,"Downers Grove, Illinois",1.3,4.13,41.8089191,-88.01117459999999
+103,DTE,DTE Energy,Utilities,"Detroit, Michigan",2.38,7.28,42.331427,-83.0457538
+104,DUK,Duke Energy,Utilities,"Charlotte, North Carolina",1.52,3.74,35.2270869,-80.8431267
+105,DD,DuPont,Materials,"Wilmington, Delaware",1.68,2.2,39.744655,-75.5483909
+106,EMN,Eastman Chemical Company,Materials,"Kingsport, Tennessee",1.04,3.01,36.548434,-82.5618186
+107,ETN,Eaton Corporation,Industrials,"Dublin, Ireland",1.48,4.43,53.3498053,-6.2603097
+108,ECL,Ecolab,Materials,"Saint Paul, Minnesota",0.8,1.49,44.9537029,-93.0899578
+109,EIX,Edison International,Utilities,"Rosemead, California",1.3,4.39,34.0805651,-118.072846
+110,ELV,Elevance Health,Health Care,"Indianapolis, Indiana",1.11,2.03,39.768403,-86.158068
+111,LLY,Eli Lilly and Company,Health Care,"Indianapolis, Indiana",1.96,6.48,39.768403,-86.158068
+112,EMR,Emerson Electric,Industrials,"Ferguson, Missouri",1.6,4.39,38.7442175,-90.3053915
+113,ETR,Entergy,Utilities,"New Orleans, Louisiana",3.32,7.92,29.95106579999999,-90.0715323
+114,EOG,EOG Resources,Energy,"Houston, Texas",0.66,1.79,29.7604267,-95.3698028
+115,EQT,EQT,Energy,"Pittsburgh, Pennsylvania",0.88,3.2,40.44062479999999,-79.9958864
+116,EFX,Equifax,Industrials,"Atlanta, Georgia",0.7,1.91,33.748752,-84.38768449999999
+117,EQR,Equity Residential,Real Estate,"Chicago, Illinois",1.58,4.59,41.8781136,-87.6297982
+118,ESS,Essex Property Trust,Real Estate,"San Mateo, California",4.34,4.14,37.5629917,-122.3255254
+119,EL,Estée Lauder Companies (The),Consumer Staples,"New York City, New York",1.05,2.21,40.7127753,-74.0059728
+120,EG,Everest Re,Financials,"Hamilton, Bermuda",1.92,2.61,32.2950716,-64.7842417
+121,ES,Eversource,Utilities,"Hartford, Connecticut",1.25,4.93,41.7658043,-72.6733723
+122,EXC,Exelon,Utilities,"Chicago, Illinois",2.1,11.15,41.8781136,-87.6297982
+123,EXPE,Expedia Group,Consumer Discretionary,"Seattle, Washington",2.08,7.73,47.6062095,-122.3320708
+124,EXPD,Expeditors International,Industrials,"Seattle, Washington",0.53,1.56,47.6062095,-122.3320708
+125,EXR,Extra Space Storage,Real Estate,"Salt Lake City, Utah",0.74,3.83,40.7607793,-111.8910474
+126,XOM,ExxonMobil,Energy,"Irving, Texas",2.08,3.94,32.8140177,-96.9488945
+127,FDS,FactSet,Financials,"Norwalk, Connecticut",1.16,1.38,41.11774399999999,-73.4081575
+128,FICO,Fair Isaac,Information Technology,"Bozeman, Montana",0.08,0.2,45.67931189999999,-111.037259
+129,FAST,Fastenal,Industrials,"Winona, Minnesota",0.67,4.2,44.0553908,-91.6663523
+130,FRT,Federal Realty,Real Estate,"Rockville, Maryland",2.8,4.14,39.0839973,-77.1527578
+131,FDX,FedEx,Industrials,"Memphis, Tennessee",0.54,0.7,35.1495343,-90.0489801
+132,FITB,Fifth Third Bank,Financials,"Cincinnati, Ohio",0.34,3.49,39.1031182,-84.5120196
+133,FE,FirstEnergy,Utilities,"Akron, Ohio",2.2,7.78,41.0814447,-81.51900529999999
+134,FIS,FIS,Financials,"Jacksonville, Florida",0.65,2.48,30.3321838,-81.65565099999999
+135,FMC,FMC Corporation,Materials,"Philadelphia, Pennsylvania",0.51,1.59,39.9525839,-75.1652215
+136,F,Ford Motor Company,Consumer Discretionary,"Dearborn, Michigan",0.2,2.83,42.3222599,-83.17631449999999
+137,BEN,Franklin Templeton,Financials,"San Mateo, California",3.08,14.3,37.5629917,-122.3255254
+138,FCX,Freeport-McMoRan,Materials,"Phoenix, Arizona",1.12,3.9,33.4483771,-112.0740373
+139,GRMN,Garmin,Consumer Discretionary,"Schaffhausen, Switzerland",2.9,10.35,47.6958897,8.6380488
+140,GNRC,Generac,Industrials,"Waukesha, Wisconsin",6.0,32.85,43.0107836,-88.2291729
+141,GD,General Dynamics,Industrials,"Falls Church, Virginia",1.96,3.87,38.88233400000001,-77.1710914
+142,GE,General Electric,Industrials,"Boston, Massachusetts",0.68,0.72,42.3600825,-71.0588801
+143,GIS,General Mills,Consumer Staples,"Golden Valley, Minnesota",1.25,4.66,44.9917149,-93.3600034
+144,GPC,Genuine Parts Company,Consumer Discretionary,"Atlanta, Georgia",1.94,4.35,33.748752,-84.38768449999999
+145,GL,Globe Life,Financials,"McKinney, Texas",0.54,2.0,33.1983388,-96.6389342
+146,GPN,Global Payments,Financials,"Atlanta, Georgia",0.08,0.37,33.748752,-84.38768449999999
+147,GS,Goldman Sachs,Financials,"New York City, New York",1.62,1.94,40.7127753,-74.0059728
+148,HAL,Halliburton,Energy,"Houston, Texas",0.36,1.3,29.7604267,-95.3698028
+149,HIG,Hartford (The),Financials,"Hartford, Connecticut",0.4,2.84,41.7658043,-72.6733723
+150,HAS,Hasbro,Consumer Discretionary,"Pawtucket, Rhode Island",1.32,5.13,41.878711,-71.38255579999999
+151,HCA,HCA Healthcare,Health Care,"Nashville, Tennessee",2.0,9.76,36.1626638,-86.7816016
+152,PEAK,Healthpeak,Real Estate,"Long Beach, California",1.98,8.36,33.7700504,-118.1937395
+153,HSY,Hershey's,Consumer Staples,"Hershey, Pennsylvania",1.48,2.98,40.2859239,-76.65024679999999
+154,HES,Hess Corporation,Energy,"New York City, New York",0.4,0.9,40.7127753,-74.0059728
+155,HD,Home Depot (The),Consumer Discretionary,"Atlanta, Georgia",1.16,3.17,33.748752,-84.38768449999999
+156,HON,Honeywell,Industrials,"Charlotte, North Carolina",1.49,3.45,35.2270869,-80.8431267
+157,HRL,Hormel Foods,Consumer Staples,"Austin, Minnesota",0.58,5.03,43.6666296,-92.97463669999999
+158,HST,Host Hotels & Resorts,Real Estate,"Bethesda, Maryland",0.26,2.43,38.984652,-77.0947092
+159,HWM,Howmet Aerospace,Industrials,"Pittsburgh, Pennsylvania",0.12,0.61,40.44062479999999,-79.9958864
+160,HPQ,HP Inc.,Information Technology,"Palo Alto, California",0.5,6.59,37.4418834,-122.1430195
+161,HUM,Humana,Health Care,"Louisville, Kentucky",1.02,1.38,38.2526647,-85.7584557
+162,HBAN,Huntington Bancshares,Financials,"Columbus, Ohio; Detroit, Michigan",0.16,3.85,42.331427,-83.0457538
+163,IBM,IBM,Information Technology,"Armonk, New York",3.2,2.66,41.1264849,-73.71401949999999
+164,IEX,IDEX Corporation,Industrials,"Lake Forest, Illinois",0.74,2.3,42.2586342,-87.840625
+165,ITW,Illinois Tool Works,Industrials,"Glenview, Illinois",1.46,3.59,42.0778065,-87.8223368
+166,INTC,Intel,Information Technology,"Santa Clara, California",0.86,4.56,37.3541079,-121.9552356
+167,IP,International Paper,Materials,"Memphis, Tennessee",1.05,5.65,35.1495343,-90.0489801
+168,IPG,Interpublic Group of Companies (The),Communication Services,"New York City, New York",0.24,3.31,40.7127753,-74.0059728
+169,INTU,Intuit,Information Technology,"Mountain View, California",0.6,1.23,37.3860517,-122.0838511
+170,IVZ,Invesco,Financials,"Atlanta, Georgia",0.59,4.1,33.748752,-84.38768449999999
+171,IRM,Iron Mountain,Real Estate,"Boston, Massachusetts",1.04,7.81,42.3600825,-71.0588801
+172,JBHT,J.B. Hunt,Industrials,"Lowell, Arkansas",0.55,1.2,36.2541286,-94.1368255
+173,JKHY,Jack Henry & Associates,Financials,"Monett, Missouri",0.45,1.5,36.9197522,-93.92761030000001
+174,JNJ,Johnson & Johnson,Health Care,"New Brunswick, New Jersey",2.36,5.02,40.4862157,-74.4518188
+175,JCI,Johnson Controls,Industrials,"Cork, Ireland",1.0,5.36,51.8985143,-8.4756035
+176,JPM,JPMorgan Chase,Financials,"New York City, New York",1.1,4.18,40.7127753,-74.0059728
+177,K,Kellogg's,Consumer Staples,"Battle Creek, Michigan",1.73,4.95,42.3211522,-85.17971419999999
+178,KDP,Keurig Dr Pepper,Consumer Staples,"Burlington, Massachusetts",1.34,24.18,42.5047161,-71.1956205
+179,KEY,KeyCorp,Financials,"Cleveland, Ohio",0.16,2.99,41.49932,-81.6943605
+180,KMB,Kimberly-Clark,Consumer Staples,"Irving, Texas",2.92,5.77,32.8140177,-96.9488945
+181,KIM,Kimco Realty,Real Estate,"New Hyde Park, New York",0.75,7.49,40.7351018,-73.6879082
+182,KMI,Kinder Morgan,Energy,"Houston, Texas",1.28,6.64,29.7604267,-95.3698028
+183,KLAC,KLA Corporation,Information Technology,"Milpitas, California",1.45,4.74,37.4323341,-121.8995741
+184,KR,Kroger,Consumer Staples,"Cincinnati, Ohio",0.46,4.9,39.1031182,-84.5120196
+185,LHX,L3Harris,Industrials,"Melbourne, Florida",1.31,3.99,28.0836269,-80.60810889999999
+186,LVS,Las Vegas Sands,Consumer Discretionary,"Las Vegas, Nevada",0.75,2.29,36.171563,-115.1391009
+187,LDOS,Leidos,Industrials,"Reston, Virginia",0.24,1.4,38.9586307,-77.35700279999999
+188,LEN,Lennar,Consumer Discretionary,"Miami, Florida",0.16,0.81,25.7616798,-80.1917902
+189,LNC,Lincoln Financial,Financials,"Radnor, Pennsylvania",0.29,1.88,40.0462208,-75.3599105
+190,LMT,Lockheed Martin,Industrials,"Bethesda, Maryland",4.0,6.62,38.984652,-77.0947092
+191,L,Loews Corporation,Financials,"New York City, New York",0.25,0.7,40.7127753,-74.0059728
+192,LOW,Lowe's,Consumer Discretionary,"Mooresville, North Carolina",0.58,2.78,35.5820319,-80.8140473
+193,LYB,LyondellBasell,Materials,"Rotterdam, Netherlands",5.8,38.35,51.9244201,4.4777325
+194,MTB,M&T Bank,Financials,"Buffalo, New York",2.8,4.77,42.88644679999999,-78.8783689
+195,MRO,Marathon Oil,Energy,"Houston, Texas",0.66,2.85,29.7604267,-95.3698028
+196,MPC,Marathon Petroleum,Energy,"Findlay, Ohio",1.1,7.52,41.04422,-83.6499321
+197,MKTX,MarketAxess,Financials,"New York City, New York",0.42,1.51,40.7127753,-74.0059728
+198,MAR,Marriott International,Consumer Discretionary,"Bethesda, Maryland",2.2,8.33,38.984652,-77.0947092
+199,MMC,Marsh McLennan,Financials,"New York City, New York",0.89,3.6,40.7127753,-74.0059728
+200,MLM,Martin Marietta Materials,Materials,"Raleigh, North Carolina",1.6,2.39,35.7795897,-78.6381787
+201,MAS,Masco,Industrials,"Livonia, Michigan",0.3,3.72,42.36837,-83.35270969999999
+202,MA,Mastercard,Financials,"Harrison, New York",0.9,2.43,40.9700171,-73.7176337
+203,MKC,McCormick & Company,Consumer Staples,"Hunt Valley, Maryland",1.21,5.67,39.4900013,-76.65850739999999
+204,MCD,McDonald's,Consumer Discretionary,"Chicago, Illinois",2.8,4.1,41.8781136,-87.6297982
+205,MCK,McKesson,Health Care,"Irving, Texas",0.8,1.04,32.8140177,-96.9488945
+206,MDT,Medtronic,Health Care,"Dublin, Ireland",0.99,3.46,53.3498053,-6.2603097
+207,MRK,Merck & Co.,Health Care,"Kenilworth, New Jersey",1.68,6.48,40.6764911,-74.2907032
+208,MET,MetLife,Financials,"New York City, New York",0.74,3.99,40.7127753,-74.0059728
+209,MCHP,Microchip Technology,Information Technology,"Chandler, Arizona",1.4,10.47,33.3061605,-111.8412502
+210,MSFT,Microsoft,Information Technology,"Redmond, Washington",0.8,3.39,47.6739881,-122.121512
+211,MAA,Mid-America Apartment Communities,Real Estate,"Memphis, Tennessee",2.61,6.24,35.1495343,-90.0489801
+212,TAP,Molson Coors Beverage Company,Consumer Staples,"Chicago, Illinois",1.28,4.0,41.8781136,-87.6297982
+213,MDLZ,Mondelez International,Consumer Staples,"Chicago, Illinois",1.16,5.81,41.8781136,-87.6297982
+214,MCO,Moody's Corporation,Financials,"New York City, New York",0.62,1.94,40.7127753,-74.0059728
+215,MS,Morgan Stanley,Financials,"New York City, New York",0.2,1.52,40.7127753,-74.0059728
+216,MOS,Mosaic Company (The),Materials,"Tampa, Florida",0.48,1.03,27.950575,-82.4571776
+217,MSI,Motorola Solutions,Information Technology,"Chicago, Illinois",0.92,2.33,41.8781136,-87.6297982
+218,NDAQ,"Nasdaq, Inc.",Financials,"New York City, New York",0.26,4.16,40.7127753,-74.0059728
+219,NWL,Newell Brands,Consumer Discretionary,"Atlanta, Georgia",0.36,3.02,33.748752,-84.38768449999999
+220,NEM,Newmont,Materials,"Denver, Colorado",1.4,3.29,39.7392358,-104.990251
+221,NEE,NextEra Energy,Utilities,"Juno Beach, Florida",2.35,20.7,26.8797819,-80.0533743
+222,NKE,"Nike, Inc.",Consumer Discretionary,"Washington County, Oregon",1.44,6.39,45.5469616,-123.1386021
+223,NI,NiSource,Utilities,"Merrillville, Indiana",0.93,14.53,41.4828144,-87.33281389999999
+224,NDSN,Nordson Corporation,Industrials,"Westlake, Ohio",0.52,1.15,41.4553232,-81.9179173
+225,NSC,Norfolk Southern Railway,Industrials,"Atlanta, Georgia",1.87,3.28,33.748752,-84.38768449999999
+226,NTRS,Northern Trust,Financials,"Chicago, Illinois",1.16,3.52,41.8781136,-87.6297982
+227,NOC,Northrop Grumman,Industrials,"West Falls Church, Virginia",2.1,4.36,38.8645565,-77.1877587
+228,NRG,NRG Energy,Utilities,"Houston, Texas",0.09,0.57,29.7604267,-95.3698028
+229,NUE,Nucor,Materials,"Charlotte, North Carolina",1.46,5.07,35.2270869,-80.8431267
+230,OXY,Occidental Petroleum,Energy,"Houston, Texas",2.08,3.55,29.7604267,-95.3698028
+231,OMC,Omnicom Group,Communication Services,"New York City, New York",1.15,3.43,40.7127753,-74.0059728
+232,OKE,ONEOK,Energy,"Tulsa, Oklahoma",2.11,11.2,36.1539816,-95.99277500000001
+233,ORCL,Oracle Corporation,Information Technology,"Austin, Texas",0.24,0.99,30.267153,-97.7430608
+234,PCAR,Paccar,Industrials,"Bellevue, Washington",1.46,8.47,47.6101497,-122.2015159
+235,PKG,Packaging Corporation of America,Materials,"Lake Forest, Illinois",0.95,4.66,42.2586342,-87.840625
+236,PARA,Paramount Global,Communication Services,"New York City, New York",0.42,1.66,40.7127753,-74.0059728
+237,PH,Parker Hannifin,Industrials,"Cleveland, Ohio",1.58,2.28,41.49932,-81.6943605
+238,PAYX,Paychex,Industrials,"Penfield, New York",1.28,5.96,43.1303407,-77.475551
+239,PNR,Pentair,Industrials,"Worsley, United Kingdom",0.86,3.97,53.50754,-2.391199
+240,PEP,PepsiCo,Consumer Staples,"Purchase, New York",2.1,4.36,41.0400135,-73.7144477
+241,PFE,Pfizer,Health Care,"New York City, New York",0.86,6.26,40.7127753,-74.0059728
+242,PCG,PG&E Corporation,Utilities,"San Francisco, California",1.82,5.19,37.7749295,-122.4194155
+243,PM,Philip Morris International,Consumer Staples,"New York City, New York",3.16,6.48,40.7127753,-74.0059728
+244,PSX,Phillips 66,Energy,"Houston, Texas",0.2,0.81,29.7604267,-95.3698028
+245,PNW,Pinnacle West,Utilities,"Phoenix, Arizona",2.1,6.68,33.4483771,-112.0740373
+246,PXD,Pioneer Natural Resources,Energy,"Irving, Texas",0.08,0.1,32.8140177,-96.9488945
+247,PNC,PNC Financial Services,Financials,"Pittsburgh, Pennsylvania",1.5,3.56,40.44062479999999,-79.9958864
+248,POOL,Pool Corporation,Consumer Discretionary,"Covington, Louisiana",0.6,2.01,30.4754702,-90.1009108
+249,PPG,PPG Industries,Materials,"Pittsburgh, Pennsylvania",2.32,5.68,40.44062479999999,-79.9958864
+250,PPL,PPL Corporation,Utilities,"Allentown, Pennsylvania",1.43,9.21,40.6022939,-75.4714098
+251,PFG,Principal Financial Group,Financials,"Des Moines, Iowa",1.27,7.3,41.5868353,-93.6249593
+252,PG,Procter & Gamble,Consumer Staples,"Cincinnati, Ohio",2.17,4.63,39.1031182,-84.5120196
+253,PGR,Progressive Corporation,Financials,"Mayfield Village, Ohio",0.41,2.82,41.5519952,-81.4392828
+254,PLD,Prologis,Real Estate,"San Francisco, California",1.12,4.88,37.7749295,-122.4194155
+255,PRU,Prudential Financial,Financials,"Newark, New Jersey",1.45,4.61,40.735657,-74.1723667
+256,PEG,Public Service Enterprise Group,Utilities,"Newark, New Jersey",1.41,6.82,40.735657,-74.1723667
+257,PSA,Public Storage,Real Estate,"Glendale, California",4.25,4.77,34.1425078,-118.255075
+258,QCOM,Qualcomm,Information Technology,"San Diego, California",1.14,2.62,32.715738,-117.1610838
+259,DGX,Quest Diagnostics,Health Care,"Secaucus, New Jersey",0.78,1.67,40.7895453,-74.05652979999999
+260,RL,Ralph Lauren Corporation,Consumer Discretionary,"New York City, New York",1.2,1.0,40.7127753,-74.0059728
+261,RJF,Raymond James,Financials,"St. Petersburg, Florida",0.52,2.67,27.7676008,-82.64029149999999
+262,RTX,RTX Corporation,Industrials,"Waltham, Massachusetts",1.98,6.63,42.3764852,-71.2356113
+263,O,Realty Income,Real Estate,"San Diego, California",1.76,8.0,32.715738,-117.1610838
+264,REG,Regency Centers,Real Estate,"Jacksonville, Florida",1.85,6.43,30.3321838,-81.65565099999999
+265,RF,Regions Financial Corporation,Financials,"Birmingham, Alabama",0.04,0.96,33.5185892,-86.8103567
+266,RSG,Republic Services,Industrials,"Phoenix, Arizona",0.9,4.22,33.4483771,-112.0740373
+267,RMD,ResMed,Health Care,"San Diego, California",0.17,0.52,32.715738,-117.1610838
+268,RVTY,Revvity,Health Care,"Waltham, Massachusetts",0.28,1.28,42.3764852,-71.2356113
+269,RHI,Robert Half,Industrials,"Menlo Park, California",0.59,2.64,37.4529598,-122.1817252
+270,ROK,Rockwell Automation,Industrials,"Milwaukee, Wisconsin",1.74,2.96,43.0389025,-87.9064736
+271,ROL,"Rollins, Inc.",Industrials,"Atlanta, Georgia",0.31,5.53,33.748752,-84.38768449999999
+272,ROP,Roper Technologies,Information Technology,"Sarasota, Florida",0.52,0.64,27.336465,-82.5310117
+273,ROST,Ross Stores,Consumer Discretionary,"Dublin, California",0.53,2.23,37.7159396,-121.9101221
+274,RCL,Royal Caribbean Group,Consumer Discretionary,"Miami, Florida",0.42,1.85,25.7616798,-80.1917902
+275,SPGI,S&P Global,Financials,"New York City, New York",1.02,2.7,40.7127753,-74.0059728
+276,SLB,Schlumberger,Energy,"Houston, Texas",1.08,2.02,29.7604267,-95.3698028
+277,STX,Seagate Technology,Information Technology,"Dublin, Ireland",1.0,6.57,53.3498053,-6.2603097
+278,SEE,Sealed Air,Materials,"Charlotte, North Carolina",0.52,3.72,35.2270869,-80.8431267
+279,SRE,Sempra Energy,Utilities,"San Diego, California",2.28,5.31,32.715738,-117.1610838
+280,SHW,Sherwin-Williams,Materials,"Cleveland, Ohio",1.54,4.79,41.49932,-81.6943605
+281,SPG,Simon Property Group,Real Estate,"Indianapolis, Indiana",4.1,5.11,39.768403,-86.158068
+282,SJM,J.M. Smucker Company (The),Consumer Staples,"Orrville, Ohio",1.96,3.4,40.8436663,-81.7640212
+283,SNA,Snap-on,Industrials,"Kenosha, Wisconsin",1.36,2.84,42.5847425,-87.82118539999999
+284,SO,Southern Company,Utilities,"Atlanta, Georgia",1.92,7.04,33.748752,-84.38768449999999
+285,LUV,Southwest Airlines,Industrials,"Dallas, Texas",0.03,0.36,32.7766642,-96.79698789999999
+286,SWK,Stanley Black & Decker,Industrials,"New Britain, Connecticut",1.72,3.28,41.6612104,-72.7795419
+287,SBUX,Starbucks,Consumer Discretionary,"Seattle, Washington",0.68,3.51,47.6062095,-122.3320708
+288,STT,State Street Corporation,Financials,"Boston, Massachusetts",0.9,2.74,42.3600825,-71.0588801
+289,STLD,Steel Dynamics,Materials,"Fort Wayne, Indiana",0.4,4.21,41.079273,-85.1393513
+290,STE,Steris,Health Care,"Dublin, Ireland",0.7,2.64,53.3498053,-6.2603097
+291,SYK,Stryker Corporation,Health Care,"Kalamazoo, Michigan",0.85,1.83,42.2917069,-85.5872286
+292,SYY,Sysco,Consumer Staples,"Houston, Texas",1.07,5.17,29.7604267,-95.3698028
+293,TROW,T. Rowe Price,Financials,"Baltimore, Maryland",1.33,3.16,39.2903848,-76.6121893
+294,TPR,"Tapestry, Inc.",Consumer Discretionary,"New York City, New York",1.05,2.21,40.7127753,-74.0059728
+295,TRGP,Targa Resources,Energy,"Houston, Texas",1.4,5.92,29.7604267,-95.3698028
+296,TGT,Target Corporation,Consumer Staples,"Minneapolis, Minnesota",1.26,3.09,44.977753,-93.2650108
+297,TEL,TE Connectivity,Information Technology,"Schaffhausen, Switzerland",0.78,3.26,47.6958897,8.6380488
+298,TFX,Teleflex,Health Care,"Wayne, Pennsylvania",1.36,2.49,40.0415996,-75.3698895
+299,TXN,Texas Instruments,Information Technology,"Dallas, Texas",0.68,2.97,32.7766642,-96.79698789999999
+300,TXT,Textron,Industrials,"Providence, Rhode Island",0.08,0.35,41.8239891,-71.4128343
+301,TMO,Thermo Fisher Scientific,Health Care,"Waltham, Massachusetts",0.39,0.74,42.3764852,-71.2356113
+302,TJX,TJX Companies,Consumer Discretionary,"Framingham, Massachusetts",0.52,3.33,42.279286,-71.4161565
+303,TSCO,Tractor Supply,Consumer Discretionary,"Brentwood, Tennessee",0.64,1.69,36.0331164,-86.78277720000001
+304,TT,Trane Technologies,Industrials,"Dublin, Ireland",0.6,2.35,53.3498053,-6.2603097
+305,TRV,Travelers Companies (The),Financials,"New York City, New York",1.74,3.77,40.7127753,-74.0059728
+306,TFC,Truist,Financials,"Charlotte, North Carolina",0.72,3.83,35.2270869,-80.8431267
+307,TSN,Tyson Foods,Consumer Staples,"Springdale, Arkansas",0.16,1.06,36.1745556,-94.1391271
+308,USB,U.S. Bank,Financials,"Minneapolis, Minnesota",0.71,3.16,44.977753,-93.2650108
+309,UDR,"UDR, Inc.",Real Estate,"Highlands Ranch, Colorado",0.86,5.09,39.5480789,-104.9739333
+310,ULTA,Ulta Beauty,Consumer Discretionary,"Bolingbrook, Illinois",1.0,1.13,41.69864159999999,-88.0683955
+311,UNP,Union Pacific Corporation,Industrials,"Omaha, Nebraska",2.4,5.5,41.2565369,-95.9345034
+312,UPS,United Parcel Service,Industrials,"Sandy Springs, Georgia",2.23,4.21,33.9304352,-84.3733147
+313,UNH,UnitedHealth Group,Health Care,"Minnetonka, Minnesota",0.75,1.65,44.9211836,-93.4687489
+314,UHS,Universal Health Services,Health Care,"King of Prussia, Pennsylvania",0.2,0.52,40.1012856,-75.3835525
+315,VLO,Valero Energy,Energy,"San Antonio, Texas",0.62,4.15,29.4251905,-98.4945922
+316,VTR,Ventas,Real Estate,"Chicago, Illinois",2.44,8.17,41.8781136,-87.6297982
+317,VZ,Verizon,Communication Services,"New York City, New York",2.0,8.81,40.7127753,-74.0059728
+318,VFC,VF Corporation,Consumer Discretionary,"Denver, Colorado",2.88,11.48,39.7392358,-104.990251
+319,V,Visa Inc.,Financials,"San Francisco, California",1.1,4.16,37.7749295,-122.4194155
+320,VMC,Vulcan Materials Company,Materials,"Birmingham, Alabama",0.04,0.12,33.5185892,-86.8103567
+321,WAB,Wabtec,Industrials,"Pittsburgh, Pennsylvania",0.14,0.4,40.44062479999999,-79.9958864
+322,WBA,Walgreens Boots Alliance,Consumer Staples,"Deerfield, Illinois",0.95,3.96,42.1711365,-87.8445119
+323,WMT,Walmart,Consumer Staples,"Bentonville, Arkansas",1.56,3.2,36.3723561,-94.21021410000002
+324,WM,Waste Management,Industrials,"Houston, Texas",1.4,5.64,29.7604267,-95.3698028
+325,WEC,WEC Energy Group,Utilities,"Milwaukee, Wisconsin",1.16,4.73,43.0389025,-87.9064736
+326,WFC,Wells Fargo,Financials,"San Francisco, California",0.78,3.43,37.7749295,-122.4194155
+327,WELL,Welltower,Real Estate,"Toledo, Ohio",2.94,8.72,41.6528052,-83.5378674
+328,WST,West Pharmaceutical Services,Health Care,"Exton, Pennsylvania",0.72,3.78,40.0325817,-75.6274583
+329,WDC,Western Digital,Information Technology,"San Jose, California",0.25,0.8,37.33874,-121.8852525
+330,WY,Weyerhaeuser,Real Estate,"Seattle, Washington",0.6,4.51,47.6062095,-122.3320708
+331,WHR,Whirlpool Corporation,Consumer Discretionary,"Benton Harbor, Michigan",2.0,4.25,42.1167065,-86.45418939999999
+332,WMB,Williams Companies,Energy,"Tulsa, Oklahoma",7.08,49.7,36.1539816,-95.99277500000001
+333,GWW,W. W. Grainger,Industrials,"Lake Forest, Illinois",2.92,1.83,42.2586342,-87.840625
+334,WYNN,Wynn Resorts,Consumer Discretionary,"Paradise, Nevada",7.0,8.44,36.0971945,-115.1466648
+335,XEL,Xcel Energy,Utilities,"Minneapolis, Minnesota",1.06,5.56,44.977753,-93.2650108
+336,XYL,Xylem Inc.,Industrials,"White Plains, New York",0.4,1.89,41.03398620000001,-73.7629097
+337,YUM,Yum! Brands,Consumer Discretionary,"Louisville, Kentucky",1.14,3.28,38.2526647,-85.7584557
+338,ZBH,Zimmer Biomet,Health Care,"Warsaw, Indiana",0.54,0.95,41.2381,-85.8530469
+339,ZION,Zions Bancorporation,Financials,"Salt Lake City, Utah",0.04,0.27,40.7607793,-111.8910474
