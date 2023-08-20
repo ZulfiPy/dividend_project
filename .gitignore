@@ -1,2 +1,4 @@
 
 api_keys.py
+.DS_store
+__pycache__/
