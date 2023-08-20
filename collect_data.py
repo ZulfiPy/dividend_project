@@ -63,7 +63,8 @@ class Processor:
 
 processor = Processor()
 
-years_to_check = [2020]
+# enter the years in list which you want to check on dividends
+years_to_check = []
 
 processor.check_stocks_div(years_to_check)
 processor.geocode_dfs()
