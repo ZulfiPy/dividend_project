@@ -5,7 +5,7 @@ class Handler:
         pass
 
     def open_sorted_csv(self, df):
-        final_path = f'/Users/zulf/Documents/GitHub/div/data/{df}.csv'
+        final_path = f'/Users/zulf/Documents/GitHub/div/data/{df}'
         df = pd.read_csv(final_path, index_col=[0])
         df = df.sort_values(by='dividend_prc', ascending=False).reset_index(drop=True)
         return df
