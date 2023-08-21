@@ -5,11 +5,11 @@ class Preprocess:
         self.df = handle.final_df(df)
 
     def df_mean_count(self):
-        df = self.df.groupby('industry')['dividend_prc'].agg([('div_prc_mean', 'mean'), ('in_industry_count', 'count')]).sort_values(by='div_prc_mean', ascending=False)
+        df = self.df.groupby('industry')['dividend_prc'].agg([('div_prc_mean', 'mean'), ('in_industry_count', 'count')]).sort_values(by='div_prc_mean', ascending=False).reset_index()
         return df
 
     def df_div_sum(self):
-        df = self.df.groupby('industry')[['dividend', 'dividend_prc']].sum().sort_values(by='dividend_prc', ascending=False)
+        df = self.df.groupby('industry')[['dividend', 'dividend_prc']].sum().sort_values(by='dividend_prc', ascending=False).reset_index()
         return df
 
     def df_location(self):
