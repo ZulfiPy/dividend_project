@@ -9,7 +9,7 @@ def percent_formatter(x, pos):
 def plot_bar_prc(df, x, y, xlabel, ylabel, title, df_name, color='pink'):
     fig_full_name = generate_plot_name(title, df_name) + '.png'
     plot_fin_path = f'/Users/zulf/Documents/GitHub/div/plots/{fig_full_name}'
-    new_title = title + df_year(df_name)
+    new_title = f'{title} ({df_year(df_name)})'
 
     fig, ax = plt.subplots(figsize=(36, 36))
     ax.bar(df[x], df[y], label=df[x], color=color)
