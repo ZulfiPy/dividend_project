@@ -9,7 +9,7 @@ class Generator:
     def dfs_for_plot(self, df_num):
         mean_count_df = Preprocess(self.dir_dfs[df_num]).df_mean_count()
         div_sum_df = Preprocess(self.dir_dfs[df_num]).df_div_sum()
-        location_df = Preprocess(self.dir_dfs[df_num]).df_location()
+        location_df = Preprocess(self.dir_dfs[df_num]).df_location()[:10]
 
         return {
             'mean_count_df': mean_count_df,
