@@ -25,7 +25,7 @@ class DataFrameCreator:
         for idx in range(len(self.df.columns[1:])):
             for i in range(len(exdf)):
                 if exdf.iloc[i, 0] == self.df.columns[idx + 1]:
-                    self.df.iloc[df_num, idx + 1] = exdf.iloc[i, 1]
+                    self.df.iloc[df_num, idx + 1] = round(exdf.iloc[i, 1], 2)
         return self.df
 
     def run_create_fill(self):
