@@ -1,5 +1,6 @@
 from generate_final_dfs_for_plot import generate
 from name_generator import df_year
+from replace_nan_with_mean import NaNHandler
 import pandas as pd
 
 
@@ -32,6 +33,8 @@ class DataFrameCreator:
         self.create_df()
         for index, value in self.df.iterrows():
             self.fill_df(index)
+        handle_nan = NaNHandler(self.df)
+        self.df = handle_nan.return_cleaned_df()
         return self.df
 
 df_creator = DataFrameCreator()
